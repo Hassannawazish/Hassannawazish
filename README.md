@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hassan Nawazish 👋</h1>
-<h3 align="center">Software Engineer | Autonomous Vehicle Expert | Simulation & ADAS Architect</h3>
+<h3 align="center">Software Engineer | Autonomous Robotics | Simulation & ADAS Architect</h3>
 
 <p align="center">
  🚗 I am passionate about <b>Autonomous Vehicle Testing</b> and <b>Software Architecture</b>. With a solid engineering background, I focus on <b>R&D</b> in the automotive industry, exploring cutting-edge technologies in <b>ADAS</b> and simulation systems. 🚀  
